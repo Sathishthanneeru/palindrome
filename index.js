@@ -13,3 +13,7 @@ var isPalindrome=(str)=> {
 }
 isPalindrome("level");
 isPalindrome("malayalam")
+
+
+
+
